@@ -1,2 +1,6 @@
 # hello-world
-This is my repository
+
+
+Hello,friends!
+
+I'am a soldier and i want to code C++
